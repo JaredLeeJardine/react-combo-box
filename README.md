@@ -1,6 +1,10 @@
 # React Combobox Example
 This is a simple Vite app where I have built a combobox to use as a sample for a job interview.
 
+## TODOs
+* Adjust the styling so that the menu opens the correct width
+* Adjust the typeahead so that it is more efficient
+
 ## Styling
 After recently learning that vanilla css now supports nesting, I wanted to use this as an test app with only using css.
 
